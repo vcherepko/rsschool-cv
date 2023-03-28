@@ -1,1 +1,5 @@
 ### Vitali Charapko
+
+![](vc.jpg)
+---
+
